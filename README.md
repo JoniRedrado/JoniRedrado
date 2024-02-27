@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedin: www.linkedin.com/in/jonathan-redrado-3838a3206
+- 📫 How to reach me Linkedin: www.linkedin.com/in/jonathan-redrado
 -                     mail: jonathan.redrado98@gmail.com
 
 <!---
